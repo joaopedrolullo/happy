@@ -1,9 +1,8 @@
 import React from "react";
 import { Map, Marker, TileLayer } from 'react-leaflet';
 import L from 'leaflet';
-import { useHistory } from "react-router-dom";
 
-import { FiArrowLeft, FiPlus } from "react-icons/fi";
+import { FiPlus } from "react-icons/fi";
 
 import mapMarkerImg from '../images/map-marker.svg';
 
@@ -18,8 +17,6 @@ const happyMapIcon = L.icon({
 })
 
 export default function CreateOrphanage() {
-  const { goBack } = useHistory();
-
   return (
     <div id="page-create-orphanage">
       
