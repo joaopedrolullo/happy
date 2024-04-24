@@ -65,11 +65,4 @@ Essa aplicação foi realizada durante a Next **Level Week #3**, projeto da [Roc
   $ yarn # ou npm install
   # Inicie a aplicação web
   $ yarn start # ou npm start
-
-  # Aplicação mobile
-  $ cd mobile
-  # Instalando as dependências do projeto.
-  $ yarn # ou npm install
-  # Inicie a aplicação mobile
-  $ yarn start # ou npm start
 ```
