@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/joaopedrolullo/happy/assets/14797386/f82afe2c-9e84-4516-8d07-6952d0f7c03f" alt="Happy" width="400"/>
+   <img src="https://github.com/joaopedrolullo/happy/assets/14797386/f82afe2c-9e84-4516-8d07-6952d0f7c03f" alt="Happy" width="280"/>
 </p>
 
 > :rocket: Projeto feito para auxiliar orfanatos, feito na Next Level Week #3 [@Rocketseat](https://rocketseat.com.br/)
