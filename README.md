@@ -2,7 +2,7 @@
    <img src="https://github.com/joaopedrolullo/happy/assets/14797386/f82afe2c-9e84-4516-8d07-6952d0f7c03f" alt="Happy" width="400"/>
 </p>
 
-> :rocket: Projeto feito para auxiliar orfanatos, feito na Next Level Week #3 @Rocketseat
+> :rocket: Projeto feito para auxiliar orfanatos, feito na Next Level Week #3 [@Rocketseat](https://rocketseat.com.br/)
 
 # :pushpin: Tabela de Conteúdo
 
@@ -26,9 +26,7 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 
 # :rocket: Funcionalidades
 
-O **Happy** é uma aplicação Web e Mobile feita para auxiliar aos orfanatos, podendo eles se cadastrarem e indicarem informações importantes como nome, endereço e instruções importantes para a realização de uma visita e os usuários podem encontrar os orfanatos cadastrados.
-  
-Essa aplicação foi realizada durante a Next **Level Week #3**, projeto da [Rocketseat](https://rocketseat.com.br/).
+O **Happy** é uma aplicação Web feita para auxiliar aos orfanatos, podendo eles se cadastrarem e indicarem informações importantes como nome, endereço e instruções importantes para a realização de uma visita e os usuários podem encontrar os orfanatos cadastrados.
 
 # :construction_worker: Como rodar
 - ### **Pré-requisitos**
