@@ -21,8 +21,6 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 * [Typescript](https://www.typescriptlang.org/)
 * [Node.js](https://nodejs.org/en/)
 * [ReactJS](https://reactjs.org/)
-* [React Native](http://facebook.github.io/react-native/)
-* [Expo](https://expo.io/)
 * [Express](https://expressjs.com/)
 * [axios](https://github.com/axios/axios)
 
