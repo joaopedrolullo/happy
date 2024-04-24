@@ -43,7 +43,7 @@ Essa aplicação foi realizada durante a Next **Level Week #3**, projeto da [Roc
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/HigorSnt/happy.git
+  $ git clone https://github.com/joaopedrolullo/happy.git
 ```
 
 2. Executando a Aplicação:
