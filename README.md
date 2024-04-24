@@ -1,8 +1,8 @@
 <p align="center">
-   <img src="" alt="Happy" width="280"/>
+   <img src="https://github.com/joaopedrolullo/happy/assets/14797386/f82afe2c-9e84-4516-8d07-6952d0f7c03f" alt="Happy" width="400"/>
 </p>
 
-> :rocket: Projeto feito para auziliar orfanatos, feito na Next Level Week #3 @Rocketseat
+> :rocket: Projeto feito para auxiliar orfanatos, feito na Next Level Week #3 @Rocketseat
 
 # :pushpin: Tabela de Conteúdo
 
@@ -12,7 +12,7 @@
 
 ### Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="https://github.com/joaopedrolullo/proffy/assets/14797386/9620fb9d-4518-47c0-8333-1942d98ad0be" width="400px">
+   <img src="https://github.com/joaopedrolullo/happy/assets/14797386/baa2a7ed-6141-41e7-8fc5-103ad7c2d651" width="800">
 </div>
 
 # :computer: Tecnologias
